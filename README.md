@@ -7,3 +7,4 @@ feat: add reward claim cooldown
 refactor: modularize reward distribution logic
 feat: integrate ERC20 permit functionality
 fix: patch approval front-running issue
+feat: add treasury fee mechanism
