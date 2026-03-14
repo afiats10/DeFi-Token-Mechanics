@@ -9,3 +9,4 @@ feat: integrate ERC20 permit functionality
 fix: patch approval front-running issue
 feat: add treasury fee mechanism
 feat: implement auto-compound feature
+docs: explain tokenomics structure
